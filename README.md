@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Błażej, computer science student focusing on frontend.</div>  
   
 
@@ -62,13 +57,7 @@
 
 
 
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11129688532&cover_image=true&theme=default" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=saunter511&&style=flat-square" align="center" />
