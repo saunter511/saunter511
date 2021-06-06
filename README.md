@@ -10,7 +10,7 @@
 - 🤯 I'm looking forward Deno and Snowpack  
   
 
-- 👨‍ Member of [Owocowe Piątki](https://github.com/owocowe-piatki/home-automation)  
+
   
 
 <br/>  
