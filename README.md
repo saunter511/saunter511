@@ -1,4 +1,4 @@
-### <div align="center">I'm Błażej, backend software engineer.</div>  
+### <div align="center">I'm Błażej, junior backend software developer.</div>  
   
   
 
